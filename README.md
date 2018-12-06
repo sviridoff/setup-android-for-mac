@@ -1,4 +1,4 @@
-# Setup `Android` for mac 2018
+# Setup `Android` for mac
 
 ## Install `brew`.
 
